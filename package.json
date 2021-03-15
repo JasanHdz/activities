@@ -1,0 +1,12 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jasan Hernández <jasan814@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.0.0",
+    "uuid": "^8.3.2"
+  }
+}
